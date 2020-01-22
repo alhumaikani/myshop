@@ -1,0 +1,17 @@
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\bin\Debug\المطبخ الملكي.exe.config
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\bin\Debug\المطبخ الملكي.exe
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\bin\Debug\المطبخ الملكي.pdb
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ الملكي.csprojAssemblyReference.cache
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ_الملكي.FrmAdminDashboard.resources
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ_الملكي.Properties.Resources.resources
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ الملكي.csproj.GenerateResource.cache
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ الملكي.exe
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ الملكي.pdb
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ_الملكي.FrmUserDashboard.resources
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ_الملكي.UI.FrmUsers.resources
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\bin\Debug\aa-DJ\المطبخ الملكي.resources.dll
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\bin\Debug\ar\المطبخ الملكي.resources.dll
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ_الملكي.UI.FrmUsers.aa-DJ.resources
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\المطبخ_الملكي.UI.FrmUsers.ar.resources
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\aa-DJ\المطبخ الملكي.resources.dll
+C:\Users\abdulrahman\Desktop\برنامج ادارة المطابخ\المطبخ الملكي\المطبخ الملكي\obj\Debug\ar\المطبخ الملكي.resources.dll
